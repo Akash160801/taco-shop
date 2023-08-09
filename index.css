@@ -1,0 +1,13 @@
+tr,
+th,
+td {
+  border: 1px solid gray;
+  padding: 3px;
+}
+thead {
+  text-align: center;
+}
+body {
+  width: 80%;
+  margin: auto;
+}
